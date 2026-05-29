@@ -44,4 +44,8 @@ These two files are **loose instructions, not a finished product.** They describ
 3. **Tailor it to your case:** your field, your goals, the conference you're attending, the note-taking style you actually use. Generic out of the box, sharp once tuned.
 4. **Co-evolve as you go.** When a workflow doesn't fit, have the LLM revise the schema. The setup you finish the conference with should look different from the one you started with — that's the point.
 
+## Interactive learning skill
+
+The [`interactive-learning`](skills/interactive-learning/SKILL.md) skill turns the LLM into a Feynman-style teacher that quizzes you on wiki topics through progressive conceptual questions and adaptive depth — not recall, but building durable intuition. It's especially useful after ingesting a talk, when you want to stress-test whether you actually understood the core ideas.
+
 > Pair the LLM with a markdown viewer that renders wikilinks and Mermaid (e.g. Obsidian): the LLM writes, you browse the graph in real time.
